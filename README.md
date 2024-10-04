@@ -48,7 +48,7 @@ A confusion matrix was generated to visualize the performance of the final model
 The Receiver Operating Characteristic (ROC) curve was plotted to evaluate the model's ability to distinguish between classes.
 
 ## Conclusion
-The project successfully demonstrated the use of machine learning algorithms in predicting bankruptcy risks for companies. Through careful data preparation and analysis, we identified a neural network as the most effective model for this task. With an accuracy of 78.21%, the model serves as a valuable tool for stakeholders in assessing financial health and making informed decisions.
+The project successfully demonstrated the use of machine learning algorithms in predicting bankruptcy risks for companies. Through careful data preparation and analysis, we identified a neural network as the most effective model for this task. With an accuracy of 77.51%, the model serves as a valuable tool for stakeholders in assessing financial health and making informed decisions.
 
 ## Future Work
 Further improvements can be made by:
@@ -57,6 +57,6 @@ Further improvements can be made by:
 - Conducting more extensive hyperparameter tuning for each model.
 
 ## References
-- Financial Data (1980-2001) from Company Records
+- Financial Data (2000-2005) from Company Records
 - Machine Learning Frameworks and Libraries (Scikit-learn, TensorFlow)
 
