@@ -4,7 +4,7 @@ A machine learning project that predicts bankruptcy risk for companies using fin
 # Predicting Bankruptcy Using Machine Learning Algorithms
 
 ## Introduction
-The goal of this project is to predict the likelihood of bankruptcy for companies across various industries using machine learning techniques. We utilized financial data collected from 1980 to 2001, analyzing different financial ratios to assess bankruptcy risk.
+The goal of this project is to predict the likelihood of bankruptcy for companies across various industries using machine learning techniques. We utilized financial data collected from 2000 to 2005, analyzing different financial ratios to assess bankruptcy risk.
 
 ## Data Collection and Preparation
 
